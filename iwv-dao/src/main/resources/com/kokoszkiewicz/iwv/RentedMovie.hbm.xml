@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.kokoszkiewicz.iwv.entities.RentedMovie" table="RentedMovie">
+		<id name="id" column="id_rent" type="int">
+			<generator class="identity" />
+		</id>
+		<property name="id_movie" column="id_movie" type="int"/>
+		<property name="id_user" column="id_user" type="int"/>
+        <property name="rent_date" column="rent_date" type="date"/>
+		<property name="rent_end_date" column="rent_end_date" type="date"/>
+	</class>
+</hibernate-mapping>

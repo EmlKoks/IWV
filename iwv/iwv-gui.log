@@ -1,0 +1,2023 @@
+2016-02-05 23:07:16 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-05 23:07:16 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-05 23:07:16 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-05 23:07:16 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-05 23:07:16 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-05 23:07:16 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-05 23:07:20 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-05 23:07:20 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-05 23:07:20 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-05 23:07:20 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-05 23:07:20 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-05 23:07:20 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-05 23:07:21 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-05 23:07:21 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-05 23:07:21 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-05 23:07:21 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-05 23:07:21 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:12 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-06 00:50:12 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:12 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:12 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-06 00:50:12 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:12 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:14 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:14 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:14 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:14 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:14 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:14 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-06 00:50:14 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-06 00:50:26 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:26 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:26 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:26 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:26 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:26 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-06 00:50:26 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-06 00:50:31 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:31 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:31 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:31 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:31 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:31 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-06 00:50:31 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-06 00:50:35 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:35 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:35 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:35 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:35 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:35 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-06 00:50:35 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-06 00:50:43 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:43 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:43 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:43 INFO  Profile:21 - Przegl¹danie w³asnego profilu przez admin
+2016-02-06 00:50:43 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:43 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:43 INFO  Brain:140 - Pobieranie szczegó³ów u¿ytkownika admin
+2016-02-06 00:50:43 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:43 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:45 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:45 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:45 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:45 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-06 00:50:45 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:45 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:45 INFO  RentedMovieDAO:31 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-06 00:50:45 INFO  RentedMovieDAO:41 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-06 00:50:48 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:48 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:48 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:48 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:48 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:48 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-06 00:50:48 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:48 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:49 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:49 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:49 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:49 INFO  AddNewMovie:25 - Dodawanie filmu przez admin
+2016-02-06 00:50:49 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:49 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:49 INFO  TypeOfMovieDAO:14 - Pobieranie gatunków filmów.
+2016-02-06 00:50:49 INFO  TypeOfMovieDAO:20 - Pobieranie gatunków filmów powiod³o siê.
+2016-02-06 00:50:52 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:52 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:52 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:52 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:52 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:52 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-06 00:50:52 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:52 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:53 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-06 00:50:53 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-06 00:50:53 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-06 00:50:53 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:53 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:53 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-06 00:50:53 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-06 00:50:53 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-06 00:50:53 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 15:38:21 INFO  Brain:33 - Rejestracja u¿ytkownika user1
+2016-02-07 15:38:21 INFO  UserDAO:39 - Rejestracja u¿ytkownika user1
+2016-02-07 15:38:22 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 15:38:22 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 15:38:22 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 15:38:25 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 15:38:32 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 15:38:32 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 15:38:32 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 15:38:32 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 15:38:32 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 15:38:33 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 15:38:38 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 15:38:41 INFO  UserDAO:49 - Rejestracja u¿ytkownika user1 powiod³a siê.
+2016-02-07 15:38:41 INFO  Register:41 - Poprawna rejestracja u¿ytkownika user1
+2016-02-07 15:40:20 INFO  Brain:26 - Logowanie u¿ytkownika user1
+2016-02-07 15:40:20 INFO  UserDAO:15 - Weryfikacja u¿ytkownika user1
+2016-02-07 15:40:20 INFO  UserDAO:30 - Weryfikacja u¿ytkownika user1 powiod³a siê.
+2016-02-07 15:40:20 INFO  Login:32 - user1 zalogowa³ siê.
+2016-02-07 15:40:20 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-07 15:40:20 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-07 15:40:27 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-07 15:40:27 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-07 15:40:27 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-07 15:40:27 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-07 15:40:27 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-07 15:40:34 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-07 15:40:34 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-07 15:40:34 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-07 15:40:34 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-07 15:40:34 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-07 15:40:38 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-07 15:40:38 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-07 15:40:38 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-07 15:40:38 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-07 15:40:38 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-07 15:41:02 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-07 15:41:02 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-07 15:41:02 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-07 15:41:02 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-07 15:41:02 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-07 15:41:04 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-07 15:41:04 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-07 15:41:04 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-07 15:41:04 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-07 15:41:04 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-07 15:43:24 INFO  LogOut:21 - user1 wylogowa³ siê.
+2016-02-07 15:43:44 INFO  Brain:33 - Rejestracja u¿ytkownika user2
+2016-02-07 15:43:44 INFO  UserDAO:39 - Rejestracja u¿ytkownika user2
+2016-02-07 15:43:44 INFO  UserDAO:49 - Rejestracja u¿ytkownika user2 powiod³a siê.
+2016-02-07 15:43:44 INFO  Register:41 - Poprawna rejestracja u¿ytkownika user2
+2016-02-07 15:44:49 INFO  Brain:33 - Rejestracja u¿ytkownika user3
+2016-02-07 15:44:49 INFO  UserDAO:39 - Rejestracja u¿ytkownika user3
+2016-02-07 15:44:49 INFO  UserDAO:49 - Rejestracja u¿ytkownika user3 powiod³a siê.
+2016-02-07 15:44:49 INFO  Register:41 - Poprawna rejestracja u¿ytkownika user3
+2016-02-07 15:45:23 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 15:45:23 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 15:45:23 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 15:45:23 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 15:45:23 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 15:45:23 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 15:45:24 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 15:45:24 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 15:45:24 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 15:45:24 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 15:45:24 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 15:45:24 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 15:45:24 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 15:45:24 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 15:45:26 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 15:45:26 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 15:45:26 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 15:45:26 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 15:45:26 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 15:45:26 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-07 15:45:26 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 15:45:26 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 15:45:26 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 23:21:07 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 23:21:07 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:21:07 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 23:21:07 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 23:21:07 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 23:21:08 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 23:21:11 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 23:21:11 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 23:21:11 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 23:21:11 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 23:21:11 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 23:21:12 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 23:21:12 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 23:21:13 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 23:21:13 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 23:21:13 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:21:13 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:21:19 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:21:19 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:21:19 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:21:19 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:21:19 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:21:22 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:21:22 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:21:22 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:21:22 INFO  Profile:21 - Przegl¹danie w³asnego profilu przez admin
+2016-02-07 23:21:22 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:21:22 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:21:22 INFO  Brain:141 - Pobieranie szczegó³ów u¿ytkownika admin
+2016-02-07 23:21:22 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:21:22 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:21:24 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:21:24 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:21:24 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:21:24 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:21:24 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:21:24 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 23:21:24 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:21:24 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:21:26 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:21:26 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:21:26 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:21:26 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:21:26 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:21:26 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-07 23:21:26 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:21:26 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:21:26 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 23:24:40 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 23:24:40 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:24:40 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 23:24:40 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 23:24:40 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 23:24:41 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 23:24:44 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 23:24:44 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 23:24:44 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 23:24:44 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 23:24:44 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 23:24:44 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 23:24:45 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 23:24:45 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 23:24:45 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 23:24:45 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:24:45 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:24:50 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:24:50 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:24:50 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:24:50 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:24:50 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:24:50 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 23:24:50 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:24:50 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:24:56 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:24:56 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:24:56 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:24:56 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:24:56 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:24:56 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-07 23:24:56 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:24:56 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:24:56 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 23:27:52 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 23:27:52 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:27:52 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 23:27:52 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 23:27:52 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 23:27:53 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 23:27:56 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 23:27:56 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 23:27:56 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 23:27:56 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 23:27:56 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 23:27:56 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 23:27:57 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 23:27:57 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 23:27:57 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 23:27:57 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:27:57 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:27:59 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:27:59 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:27:59 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:27:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:27:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:27:59 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 23:27:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:27:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:28:01 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:28:01 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:28:01 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:28:01 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:28:01 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:28:01 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-07 23:28:01 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:28:01 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:28:01 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 23:28:49 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 23:28:49 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:28:49 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 23:28:49 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 23:28:49 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 23:28:50 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 23:28:53 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 23:28:53 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 23:28:53 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 23:28:53 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 23:28:53 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 23:28:53 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 23:28:54 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 23:28:54 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 23:28:54 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 23:28:54 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:28:54 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:28:56 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:28:56 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:28:57 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:28:57 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:28:57 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:28:57 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 23:28:57 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:28:57 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:28:59 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:28:59 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:28:59 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:28:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:28:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:28:59 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-07 23:28:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:28:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:28:59 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 23:30:51 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 23:30:51 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:30:52 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 23:30:52 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 23:30:52 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 23:30:52 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 23:30:55 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 23:30:55 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 23:30:55 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 23:30:55 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 23:30:55 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 23:30:56 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 23:30:56 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 23:30:57 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 23:30:57 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 23:30:57 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:30:57 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:31:01 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:31:01 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:31:01 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:31:01 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:31:01 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:31:01 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 23:31:01 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:31:01 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:31:02 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:31:02 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:31:02 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:31:02 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:31:02 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:31:02 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-07 23:31:02 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:31:02 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:31:02 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 23:52:56 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 23:52:56 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:52:56 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 23:52:56 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 23:52:56 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 23:52:56 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 23:53:00 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 23:53:00 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 23:53:00 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 23:53:00 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 23:53:00 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 23:53:00 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 23:53:01 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 23:53:01 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 23:53:01 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 23:53:01 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:53:01 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:53:03 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:53:03 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:53:03 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:53:03 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:53:03 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:53:05 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:53:05 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:53:05 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:53:05 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:53:05 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:53:05 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 23:53:05 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:53:05 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:53:07 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:53:07 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:53:07 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:53:07 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:53:07 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:53:07 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-07 23:53:07 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:53:07 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:53:07 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 23:56:21 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 23:56:21 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:56:21 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 23:56:21 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 23:56:21 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 23:56:22 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 23:56:25 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 23:56:25 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 23:56:25 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 23:56:25 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 23:56:25 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 23:56:25 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 23:56:26 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 23:56:26 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 23:56:26 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 23:56:26 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:56:26 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:56:28 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:56:28 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:56:28 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:56:28 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:56:28 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:56:28 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 23:56:28 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:56:28 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:56:30 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:56:30 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:56:30 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:56:30 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:56:30 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:56:30 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-07 23:56:30 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:56:30 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:56:30 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-07 23:59:51 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-07 23:59:51 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:59:51 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-07 23:59:51 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-07 23:59:51 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-07 23:59:51 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-07 23:59:54 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-07 23:59:54 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-07 23:59:54 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-07 23:59:54 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-07 23:59:54 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-07 23:59:55 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-07 23:59:55 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-07 23:59:56 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-07 23:59:56 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-07 23:59:56 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:59:56 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:59:59 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-07 23:59:59 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-07 23:59:59 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-07 23:59:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:59:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-07 23:59:59 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-07 23:59:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-07 23:59:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:00:02 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:00:02 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:00:03 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:00:03 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:00:03 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:00:03 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-08 00:00:03 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:00:03 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:00:03 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-08 00:04:03 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 00:04:03 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:04:04 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 00:04:04 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 00:04:04 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 00:04:04 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 00:04:07 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 00:04:07 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 00:04:07 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 00:04:07 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 00:04:07 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 00:04:08 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 00:04:08 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 00:04:08 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 00:04:08 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 00:04:08 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:04:08 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:04:15 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:04:15 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:04:15 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:04:15 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:04:15 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:04:15 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-08 00:04:15 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:04:15 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:04:46 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:04:46 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:04:46 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:04:46 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:04:47 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:04:47 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-08 00:04:47 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:04:47 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:04:47 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-08 00:08:45 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 00:08:46 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:08:46 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 00:08:46 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 00:08:46 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 00:08:46 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 00:08:49 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 00:08:49 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 00:08:49 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 00:08:49 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 00:08:49 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 00:08:49 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 00:08:50 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 00:08:50 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 00:08:50 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 00:08:50 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:08:50 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:08:55 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:08:55 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:08:55 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:08:55 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:08:55 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:08:55 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-08 00:08:55 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:08:55 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:08:58 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:08:58 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:08:58 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:08:58 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:08:58 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:08:58 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-08 00:08:58 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:08:58 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:08:58 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-08 00:14:31 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 00:14:31 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:14:31 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 00:14:31 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 00:14:31 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 00:14:32 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 00:14:35 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 00:14:35 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 00:14:35 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 00:14:35 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 00:14:35 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 00:14:36 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 00:14:37 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 00:14:37 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 00:14:37 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 00:14:37 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:14:37 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:14:39 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:14:39 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:14:39 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:14:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:14:39 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:14:39 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-08 00:14:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:14:39 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:14:41 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:14:41 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:14:41 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:14:41 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:14:41 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:14:41 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-08 00:14:41 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:14:41 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:14:41 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-08 00:16:39 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 00:16:39 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:16:40 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 00:16:40 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 00:16:40 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 00:16:40 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 00:16:43 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 00:16:43 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 00:16:43 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 00:16:43 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 00:16:43 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 00:16:43 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 00:16:44 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 00:16:44 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 00:16:44 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 00:16:44 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:16:44 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:16:47 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:16:47 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:16:47 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:16:47 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:16:47 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:16:47 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-08 00:16:47 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:16:47 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:17:13 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:17:13 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:17:13 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:17:13 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:17:13 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:17:13 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-08 00:17:13 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:17:13 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:17:13 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-08 00:21:08 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 00:21:08 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:21:09 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 00:21:09 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 00:21:09 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 00:21:09 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 00:21:12 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 00:21:12 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 00:21:12 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 00:21:12 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 00:21:12 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 00:21:12 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 00:21:13 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 00:21:13 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 00:21:13 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 00:21:13 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:21:13 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:21:27 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:21:27 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:21:27 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:21:27 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:21:27 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:21:27 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-08 00:21:27 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:21:27 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:21:31 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:21:31 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:21:31 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:21:31 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:21:31 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:21:31 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-08 00:21:31 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:21:31 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:21:31 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-08 00:22:00 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:22:00 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:22:00 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:22:00 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:22:00 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:25:32 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 00:25:32 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:25:32 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 00:25:32 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 00:25:32 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 00:25:32 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 00:25:36 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 00:25:36 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 00:25:36 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 00:25:36 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 00:25:36 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 00:25:36 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 00:25:37 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 00:25:37 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 00:25:37 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 00:25:37 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:25:37 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:25:39 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:25:39 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:25:39 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:25:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:25:39 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:25:39 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-08 00:25:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:25:39 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:25:42 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:25:42 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:25:42 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:25:42 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:25:42 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:25:42 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-08 00:25:42 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:25:42 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:25:42 INFO  UserDAO:112 - Pobieranie listy u¿ytkowników
+2016-02-08 00:53:58 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 00:53:58 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:53:58 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 00:53:58 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 00:53:58 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 00:53:58 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 00:54:02 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 00:54:02 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 00:54:02 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 00:54:02 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 00:54:02 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 00:54:02 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 00:54:02 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 00:54:03 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 00:54:03 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 00:54:03 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:54:03 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:54:06 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:54:06 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:54:06 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:54:06 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-08 00:54:06 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:54:06 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:54:06 INFO  RentedMovieDAO:31 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-08 00:54:06 INFO  RentedMovieDAO:41 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-08 00:54:13 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:54:13 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:54:13 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:54:13 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:54:13 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:54:13 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 00:54:13 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 00:54:15 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:54:15 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:54:16 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:54:16 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-08 00:54:16 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:54:16 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:54:16 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 00:54:16 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 00:54:16 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 00:54:16 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 00:55:12 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:55:12 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:55:12 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:55:12 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-08 00:55:12 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:55:12 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:55:12 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 00:55:12 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 00:55:12 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 00:55:12 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 00:55:26 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:55:26 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:55:26 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:55:26 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-08 00:55:26 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:55:26 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:55:26 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 00:55:26 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 00:55:26 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 00:55:26 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 00:55:28 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:55:28 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:55:28 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:55:28 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:55:28 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:55:29 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:55:29 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:55:29 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:55:29 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:55:29 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:55:29 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 00:55:29 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 00:55:31 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 00:55:31 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 00:55:31 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 00:55:31 INFO  MovieDetails:23 - Przegl¹danie filmu o id 1 przez admin
+2016-02-08 00:55:31 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 00:55:31 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 00:55:31 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 1
+2016-02-08 00:55:31 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 1
+2016-02-08 00:55:31 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 00:55:31 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:00:47 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 01:00:47 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:00:47 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 01:00:47 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 01:00:47 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 01:00:47 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 01:00:50 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 01:00:50 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 01:00:50 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 01:00:50 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 01:00:50 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 01:00:51 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 01:00:51 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 01:00:51 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 01:00:51 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 01:00:51 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:00:51 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:00:53 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:00:53 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:00:53 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:00:53 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:00:53 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:00:53 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 01:00:53 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 01:00:54 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:00:54 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:00:54 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:00:54 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:00:54 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:00:54 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 01:00:54 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 01:00:57 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:00:57 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:00:57 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:00:57 INFO  MovieDetails:23 - Przegl¹danie filmu o id 513 przez admin
+2016-02-08 01:00:57 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:00:58 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:00:58 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 513
+2016-02-08 01:00:58 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 513
+2016-02-08 01:00:58 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:00:58 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:08:36 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:08:36 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:08:36 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:08:36 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:08:36 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:08:43 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:08:43 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:08:43 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:08:43 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:08:43 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:08:43 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-08 01:08:43 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:08:43 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:08:45 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:08:45 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:08:45 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:08:45 INFO  AddNewMovie:25 - Dodawanie filmu przez admin
+2016-02-08 01:08:45 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:08:45 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:08:45 INFO  TypeOfMovieDAO:14 - Pobieranie gatunków filmów.
+2016-02-08 01:08:45 INFO  TypeOfMovieDAO:20 - Pobieranie gatunków filmów powiod³o siê.
+2016-02-08 01:09:05 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:09:05 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:09:05 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:09:05 INFO  Brain:48 - Dodawanie filmu asdijmafoi
+2016-02-08 01:09:05 INFO  MovieDAO:39 - Dodawanie filmu asdijmafoi
+2016-02-08 01:09:05 INFO  MovieDAO:45 - Dodawanie filmu asdijmafoi powiod³o siê.
+2016-02-08 01:09:05 INFO  MovieTypeDAO:18 - Dodawanie gatunków do filmu asdijmafoi
+2016-02-08 01:09:05 INFO  MovieTypeDAO:33 - Dodawanie gatunków do filmu asdijmafoi powiod³o siê.
+2016-02-08 01:09:05 INFO  AddNewMovie:49 - admindoda³ nowy film.
+2016-02-08 01:09:05 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:09:05 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:09:28 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:09:28 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:09:28 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:09:28 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:09:28 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:09:28 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 01:09:28 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 01:09:30 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:09:30 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:09:30 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:09:30 INFO  MovieDetails:23 - Przegl¹danie filmu o id 256 przez admin
+2016-02-08 01:09:30 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:09:30 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:09:30 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 256
+2016-02-08 01:09:30 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 256
+2016-02-08 01:09:30 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:09:30 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:22:02 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:22:02 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:22:02 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:22:02 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:22:02 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:22:03 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:22:03 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:22:03 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:22:03 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:22:03 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:22:03 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 01:22:03 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 01:22:07 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:22:07 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:22:07 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:22:07 INFO  MovieDetails:23 - Przegl¹danie filmu o id 258 przez admin
+2016-02-08 01:22:07 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:22:07 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:22:07 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:22:07 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:22:07 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:22:07 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:23:42 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:23:42 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:23:42 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:23:42 INFO  MovieDetails:23 - Przegl¹danie filmu o id 258 przez admin
+2016-02-08 01:23:42 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:23:42 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:23:42 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:42 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:42 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:23:42 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:23:45 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:23:45 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:23:45 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:23:45 INFO  MovieDetails:23 - Przegl¹danie filmu o id 258 przez admin
+2016-02-08 01:23:45 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:23:45 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:23:45 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:45 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:45 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:23:45 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:23:46 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:23:46 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:23:46 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:23:46 INFO  MovieDetails:23 - Przegl¹danie filmu o id 258 przez admin
+2016-02-08 01:23:46 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:23:46 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:23:46 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:46 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:46 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:23:46 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:23:46 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:23:46 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:23:46 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:23:46 INFO  MovieDetails:23 - Przegl¹danie filmu o id 258 przez admin
+2016-02-08 01:23:46 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:23:46 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:23:46 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:46 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:46 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:23:46 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:23:47 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:23:47 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:23:47 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:23:47 INFO  MovieDetails:23 - Przegl¹danie filmu o id 258 przez admin
+2016-02-08 01:23:47 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:23:47 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:23:47 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:47 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 258
+2016-02-08 01:23:47 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:23:47 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:27:27 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:27:27 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:27:27 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:27:27 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:27:27 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:27:28 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:27:28 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:27:28 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:27:28 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-08 01:27:28 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:27:28 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:27:28 INFO  RentedMovieDAO:31 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-08 01:27:28 INFO  RentedMovieDAO:41 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-08 01:27:30 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:27:30 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:27:30 INFO  UserDAO:103 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:27:30 INFO  WatchMovie:26 - admin ogl¹da film o id 4
+2016-02-08 01:27:30 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 4
+2016-02-08 01:27:30 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:27:30 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:35:03 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 01:35:03 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:35:03 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 01:35:03 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 01:35:03 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 01:35:04 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 01:35:07 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 01:35:07 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 01:35:07 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 01:35:07 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 01:35:07 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 01:35:07 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 01:35:08 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 01:35:08 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 01:35:08 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 01:35:08 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:35:08 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:35:10 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:35:10 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:35:10 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:35:10 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:35:10 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:35:10 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 01:35:10 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 01:35:12 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:35:12 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:35:12 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:35:12 INFO  MovieDetails:23 - Przegl¹danie filmu o id 256 przez admin
+2016-02-08 01:35:12 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:35:12 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:35:12 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 256
+2016-02-08 01:35:12 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 256
+2016-02-08 01:35:12 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:35:12 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:45:46 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 01:45:46 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:45:46 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 01:45:46 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 01:45:46 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 01:45:46 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 01:45:50 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 01:45:50 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 01:45:50 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 01:45:50 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 01:45:50 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 01:45:50 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 01:45:51 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 01:45:51 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 01:45:51 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 01:45:51 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:45:51 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:45:52 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:45:52 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:45:52 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:45:52 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:45:52 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:45:52 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 01:45:53 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 01:45:55 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:45:55 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:45:55 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:45:55 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-08 01:45:55 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:45:55 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:45:55 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 01:45:55 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 01:45:55 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:45:55 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 01:58:27 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 01:58:27 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:58:27 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 01:58:27 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 01:58:27 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 01:58:28 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 01:58:31 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 01:58:31 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 01:58:31 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 01:58:31 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 01:58:31 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 01:58:32 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 01:58:32 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 01:58:33 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 01:58:33 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 01:58:33 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:58:33 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:58:34 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:58:34 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:58:34 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:58:34 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:58:34 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:58:34 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 01:58:34 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 01:58:36 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 01:58:36 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 01:58:37 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 01:58:37 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-08 01:58:37 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 01:58:37 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 01:58:37 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 01:58:37 INFO  MovieDAO:50 - Pobieranie szczegó³ów filmu o id 768
+2016-02-08 01:58:37 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 01:58:37 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-08 02:08:22 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 02:08:22 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 02:08:23 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 02:08:23 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 02:08:23 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 02:08:23 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 02:08:28 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 02:08:28 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 02:08:28 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 02:08:28 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 02:08:28 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 02:08:28 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 02:08:29 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 02:08:29 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 02:08:29 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 02:08:29 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 02:08:30 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 02:08:32 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 02:08:32 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 02:08:32 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 02:08:32 INFO  Profile:21 - Przegl¹danie w³asnego profilu przez admin
+2016-02-08 02:08:32 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 02:08:32 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 02:08:32 INFO  Brain:147 - Pobieranie szczegó³ów u¿ytkownika admin
+2016-02-08 02:08:32 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 02:08:32 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 08:38:01 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-08 08:38:01 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-08 08:38:01 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-08 08:38:01 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-08 08:38:01 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-08 08:38:02 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-08 08:38:05 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-08 08:38:06 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-08 08:38:06 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-08 08:38:06 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-08 08:38:06 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-08 08:38:06 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-08 08:38:07 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-08 08:38:07 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-08 08:38:07 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-08 08:38:07 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 08:38:07 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 08:38:11 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 08:38:11 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 08:38:11 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 08:38:11 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 08:38:11 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 08:38:11 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-08 08:38:12 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-08 08:38:20 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-08 08:38:20 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-08 08:38:20 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-08 08:38:20 INFO  MovieDetails:23 - Przegl¹danie filmu o id 257 przez admin
+2016-02-08 08:38:20 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-08 08:38:20 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-08 08:38:20 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 257
+2016-02-08 08:38:20 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 257
+2016-02-08 08:38:20 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-08 08:38:20 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-09 23:10:01 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-09 23:10:01 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:10:01 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-09 23:10:01 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-09 23:10:01 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-09 23:10:02 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-09 23:10:07 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-09 23:10:07 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-09 23:10:07 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-09 23:10:07 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-09 23:10:07 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-09 23:10:07 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-09 23:10:08 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-09 23:10:09 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-09 23:10:09 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-09 23:10:09 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:10:09 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:10:49 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:10:49 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:10:49 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:10:49 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:10:49 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:10:49 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-09 23:10:50 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-09 23:10:53 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:10:53 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:10:53 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:10:53 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-09 23:10:53 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:10:53 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:10:53 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:10:53 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:10:53 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-09 23:10:53 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-09 23:19:20 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-09 23:19:20 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:19:20 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-09 23:19:20 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-09 23:19:20 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-09 23:19:20 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-09 23:19:25 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-09 23:19:25 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-09 23:19:25 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-09 23:19:25 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-09 23:19:25 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-09 23:19:26 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-09 23:19:27 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-09 23:19:27 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-09 23:19:27 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-09 23:19:27 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:19:27 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:19:47 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:19:47 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:19:48 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:19:48 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:19:48 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:19:48 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-09 23:19:48 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-09 23:19:49 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:19:49 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:19:49 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:19:49 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-09 23:19:49 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:19:49 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:19:49 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:19:49 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:19:49 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-09 23:19:49 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-09 23:22:32 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-09 23:22:32 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:22:32 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-09 23:22:32 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-09 23:22:32 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-09 23:22:32 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-09 23:22:36 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-09 23:22:36 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-09 23:22:36 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-09 23:22:36 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-09 23:22:36 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-09 23:22:36 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-09 23:22:37 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-09 23:22:37 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-09 23:22:37 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-09 23:22:37 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:22:37 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:22:39 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:22:39 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:22:39 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:22:39 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-09 23:22:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:22:39 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:22:39 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:22:39 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:22:39 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-09 23:22:39 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-09 23:24:58 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-09 23:24:58 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:24:58 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-09 23:24:58 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-09 23:24:58 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-09 23:24:59 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-09 23:25:02 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-09 23:25:02 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-09 23:25:02 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-09 23:25:02 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-09 23:25:02 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-09 23:25:02 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-09 23:25:03 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-09 23:25:03 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-09 23:25:03 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-09 23:25:03 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:25:03 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:25:12 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:25:12 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:25:12 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:25:12 INFO  MovieDetails:23 - Przegl¹danie filmu o id 4 przez admin
+2016-02-09 23:25:12 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:25:12 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:25:12 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 4
+2016-02-09 23:25:12 INFO  MovieDAO:52 - Pobieranie szczegó³ów filmu o id 4
+2016-02-09 23:25:12 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-09 23:25:12 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-09 23:25:12 INFO  MovieDAO:65 - Pobieranie szczegó³ów filmu o id 4 powiod³o siê.
+2016-02-09 23:39:17 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-09 23:39:17 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:39:17 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-09 23:39:17 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-09 23:39:17 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-09 23:39:17 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-09 23:39:20 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-09 23:39:20 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-09 23:39:20 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-09 23:39:20 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-09 23:39:20 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-09 23:39:20 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-09 23:39:21 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-09 23:39:21 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-09 23:39:21 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-09 23:39:21 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:39:21 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:39:24 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:39:24 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:39:24 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:39:24 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:39:24 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:39:24 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-09 23:39:24 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-09 23:39:26 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:39:26 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:39:26 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:39:26 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-09 23:39:26 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:39:26 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:39:26 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:39:26 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:39:27 WARN  SqlExceptionHelper:127 - SQL Error: 1146, SQLState: 42S02
+2016-02-09 23:39:27 ERROR SqlExceptionHelper:129 - Table 'iwv.movielist' doesn't exist
+2016-02-09 23:39:27 INFO  MovieDAO:65 - Pobieranie szczegó³ów filmu o id 768 powiod³o siê.
+2016-02-09 23:44:28 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-09 23:44:28 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:44:28 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-09 23:44:28 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-09 23:44:28 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-09 23:44:28 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-09 23:44:31 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-09 23:44:31 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-09 23:44:31 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-09 23:44:31 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-09 23:44:31 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-09 23:44:32 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-09 23:44:32 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-09 23:44:33 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-09 23:44:33 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-09 23:44:33 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:44:33 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:44:35 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:44:35 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:44:35 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:44:35 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:44:35 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:44:35 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-09 23:44:36 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-09 23:44:37 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:44:37 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:44:37 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:44:37 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-09 23:44:37 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:44:37 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:44:37 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:44:37 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-09 23:44:38 INFO  MovieDAO:65 - Pobieranie szczegó³ów filmu o id 768 powiod³o siê.
+2016-02-09 23:51:40 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-09 23:51:40 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:51:40 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-09 23:51:40 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-09 23:51:40 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-09 23:51:40 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-09 23:51:43 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-09 23:51:43 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-09 23:51:43 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-09 23:51:43 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-09 23:51:43 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-09 23:51:44 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-09 23:51:44 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-09 23:51:45 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-09 23:51:45 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-09 23:51:45 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:51:45 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:51:50 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:51:50 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:51:50 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:51:50 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:51:50 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:51:50 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-09 23:51:50 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-09 23:51:53 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:51:53 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:51:53 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:51:53 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-09 23:51:53 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:51:53 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:51:53 INFO  RentedMovieDAO:31 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-09 23:51:53 INFO  RentedMovieDAO:41 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-09 23:51:56 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:51:56 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:51:56 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:51:56 INFO  WatchMovie:26 - admin ogl¹da film o id 4
+2016-02-09 23:51:56 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 4
+2016-02-09 23:57:10 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-09 23:57:10 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:57:10 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-09 23:57:10 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-09 23:57:10 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-09 23:57:10 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-09 23:57:13 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-09 23:57:13 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-09 23:57:13 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-09 23:57:13 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-09 23:57:13 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-09 23:57:14 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-09 23:57:14 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-09 23:57:15 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-09 23:57:15 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-09 23:57:15 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:57:15 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:57:16 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:57:16 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:57:16 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:57:16 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:57:16 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:57:18 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:57:18 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:57:18 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:57:18 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-09 23:57:18 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:57:18 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:57:18 INFO  RentedMovieDAO:31 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-09 23:57:18 INFO  RentedMovieDAO:41 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-09 23:57:19 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:57:19 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:57:19 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:57:19 INFO  WatchMovie:26 - admin ogl¹da film o id 4
+2016-02-09 23:57:19 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 4
+2016-02-09 23:57:19 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 4 powiod³o siê.
+2016-02-09 23:57:19 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:57:19 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:57:42 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:57:42 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:57:42 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:57:42 INFO  WatchMovie:26 - admin ogl¹da film o id 5
+2016-02-09 23:57:42 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 5
+2016-02-09 23:57:42 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 5 powiod³o siê.
+2016-02-09 23:57:42 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:57:42 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-09 23:57:46 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-09 23:57:46 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-09 23:57:46 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-09 23:57:46 INFO  WatchMovie:26 - admin ogl¹da film o id 6
+2016-02-09 23:57:46 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 6
+2016-02-09 23:57:46 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 6 powiod³o siê.
+2016-02-09 23:57:46 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-09 23:57:46 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:23:02 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:23:02 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:23:03 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:23:03 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:23:03 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:25:20 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-10 00:25:20 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:25:21 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-10 00:25:21 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-10 00:25:21 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-10 00:25:21 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-10 00:25:24 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-10 00:25:24 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-10 00:25:24 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-10 00:25:24 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-10 00:25:24 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-10 00:25:24 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-10 00:25:25 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-10 00:25:25 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-10 00:25:25 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-10 00:25:25 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:25:25 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:26:18 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:26:18 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:26:18 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:26:18 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:26:18 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:26:18 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:26:18 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:26:18 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:26:21 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:26:21 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:26:21 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:26:21 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:26:21 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:26:21 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 4
+2016-02-10 00:26:21 INFO  RentedMovieDAO:62 - U¿ytkownik o id 1 aktualnie nie jest w posiadaniu filmu o id 4
+2016-02-10 00:26:21 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:26:21 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:27:32 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:27:32 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:27:32 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:27:32 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:27:32 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:27:32 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:27:32 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:27:32 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:27:37 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:27:37 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:27:37 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:27:37 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:27:37 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:27:37 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 4
+2016-02-10 00:27:37 INFO  RentedMovieDAO:62 - U¿ytkownik o id 1 aktualnie nie jest w posiadaniu filmu o id 4
+2016-02-10 00:27:37 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:27:37 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:04 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-10 00:31:04 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:31:04 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-10 00:31:04 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-10 00:31:04 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-10 00:31:04 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-10 00:31:08 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-10 00:31:08 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-10 00:31:08 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-10 00:31:08 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-10 00:31:08 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-10 00:31:08 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-10 00:31:08 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-10 00:31:09 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-10 00:31:09 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-10 00:31:09 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:09 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:11 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:31:11 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:31:11 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:31:11 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:31:11 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:11 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:11 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:31:11 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:31:13 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:31:13 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:31:13 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:31:13 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:13 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:13 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 4
+2016-02-10 00:31:13 INFO  RentedMovieDAO:62 - U¿ytkownik o id 1 aktualnie nie jest w posiadaniu filmu o id 4
+2016-02-10 00:31:13 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:13 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:38 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:31:38 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:31:38 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:31:38 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:31:38 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:38 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:38 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:31:38 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:31:42 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:31:42 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:31:42 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:31:42 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:42 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:42 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-10 00:31:42 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-10 00:31:46 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:31:46 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:31:46 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:31:46 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:46 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:46 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-10 00:31:46 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-10 00:31:52 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:31:52 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:31:52 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:31:52 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:52 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:52 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-10 00:31:52 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-10 00:31:57 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:31:57 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:31:57 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:31:57 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:31:57 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:31:57 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-10 00:31:57 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-10 00:32:02 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:02 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:02 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:02 INFO  MovieDetails:23 - Przegl¹danie filmu o id 256 przez admin
+2016-02-10 00:32:02 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:02 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:02 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 256
+2016-02-10 00:32:02 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 256
+2016-02-10 00:32:02 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 256 powiod³o siê.
+2016-02-10 00:32:06 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:06 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:06 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:06 INFO  MovieDetails:23 - Przegl¹danie filmu o id 4 przez admin
+2016-02-10 00:32:06 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:06 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:06 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 4
+2016-02-10 00:32:06 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 4
+2016-02-10 00:32:06 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 4 powiod³o siê.
+2016-02-10 00:32:14 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:14 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:14 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:14 INFO  MovieDetails:23 - Przegl¹danie filmu o id 20 przez admin
+2016-02-10 00:32:14 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:14 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:14 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 20
+2016-02-10 00:32:14 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 20
+2016-02-10 00:32:14 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 20 powiod³o siê.
+2016-02-10 00:32:19 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:19 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:19 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:19 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:32:19 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:19 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:19 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:32:19 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:32:22 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:22 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:22 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:22 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:22 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:22 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 4
+2016-02-10 00:32:22 INFO  RentedMovieDAO:62 - U¿ytkownik o id 1 aktualnie nie jest w posiadaniu filmu o id 4
+2016-02-10 00:32:22 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:22 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:35 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:35 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:35 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:35 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:35 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:35 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-10 00:32:35 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-10 00:32:36 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:36 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:36 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:36 INFO  MovieDetails:23 - Przegl¹danie filmu o id 768 przez admin
+2016-02-10 00:32:36 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:36 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:36 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 768
+2016-02-10 00:32:36 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-10 00:32:36 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 768 powiod³o siê.
+2016-02-10 00:32:38 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:38 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:38 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:38 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-10 00:32:38 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 768 powiod³o siê.
+2016-02-10 00:32:38 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:38 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:38 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:38 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:39 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:39 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:39 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:39 INFO  Brain:162 - Wypo¿yczanie filmu o id 768 przez admin
+2016-02-10 00:32:39 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-10 00:32:39 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 768 powiod³o siê.
+2016-02-10 00:32:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:39 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:39 INFO  UserDAO:75 - Zasilanie konta u¿ytkownika admin
+2016-02-10 00:32:39 INFO  UserDAO:88 - Zasilanie konta u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:39 INFO  RentedMovieDAO:18 - Wypo¿yczanie filmu o id 768 przez u¿ytkownika o id 1
+2016-02-10 00:32:39 INFO  RentedMovieDAO:28 - Wypo¿yczanie filmu o id 768 przez u¿ytkownika o id 1 powiod³o siê.
+2016-02-10 00:32:39 INFO  RentMovie:28 - admin wypo¿yczy³ filmu o id 768
+2016-02-10 00:32:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:39 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:41 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:41 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:41 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:41 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:32:41 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:41 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:41 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:32:41 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:32:43 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:43 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:43 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:43 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:43 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:43 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 5
+2016-02-10 00:32:43 INFO  RentedMovieDAO:62 - U¿ytkownik o id 1 aktualnie nie jest w posiadaniu filmu o id 5
+2016-02-10 00:32:43 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:44 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:55 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:32:55 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:32:55 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:32:55 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:32:55 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:32:55 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:32:55 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:32:55 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:34:08 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:34:08 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:34:08 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:34:08 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:08 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:08 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-10 00:34:08 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-10 00:34:11 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:34:11 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:34:11 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:34:11 INFO  MovieDetails:23 - Przegl¹danie filmu o id 514 przez admin
+2016-02-10 00:34:11 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:11 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:11 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 514
+2016-02-10 00:34:11 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 514
+2016-02-10 00:34:12 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 514 powiod³o siê.
+2016-02-10 00:34:13 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:34:13 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:34:13 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:34:13 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 514
+2016-02-10 00:34:13 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 514 powiod³o siê.
+2016-02-10 00:34:13 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:14 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:14 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:14 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:16 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:34:16 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:34:16 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:34:16 INFO  Brain:162 - Wypo¿yczanie filmu o id 514 przez admin
+2016-02-10 00:34:16 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 514
+2016-02-10 00:34:16 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 514 powiod³o siê.
+2016-02-10 00:34:16 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:16 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:16 INFO  UserDAO:75 - Zasilanie konta u¿ytkownika admin
+2016-02-10 00:34:16 INFO  UserDAO:88 - Zasilanie konta u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:16 INFO  RentedMovieDAO:18 - Wypo¿yczanie filmu o id 514 przez u¿ytkownika o id 1
+2016-02-10 00:34:17 INFO  RentedMovieDAO:28 - Wypo¿yczanie filmu o id 514 przez u¿ytkownika o id 1 powiod³o siê.
+2016-02-10 00:34:17 INFO  RentMovie:28 - admin wypo¿yczy³ filmu o id 514
+2016-02-10 00:34:17 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:17 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:19 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:34:19 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:34:19 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:34:19 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:34:19 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:19 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:19 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:34:19 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:34:25 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:34:25 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:34:25 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:34:25 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:25 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:34:25 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 6
+2016-02-10 00:34:25 INFO  RentedMovieDAO:62 - U¿ytkownik o id 1 aktualnie nie jest w posiadaniu filmu o id 6
+2016-02-10 00:34:25 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:34:25 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:37:25 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-10 00:37:25 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:37:26 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-10 00:37:26 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-10 00:37:26 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-10 00:37:26 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-10 00:37:29 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-10 00:37:29 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-10 00:37:29 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-10 00:37:29 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-10 00:37:29 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-10 00:37:29 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-10 00:37:30 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-10 00:37:30 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-10 00:37:30 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-10 00:37:30 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:37:30 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:38:59 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:38:59 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:38:59 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:38:59 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:38:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:38:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:38:59 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:38:59 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:42:36 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:42:36 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:42:36 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:42:36 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:42:36 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:42:36 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 20
+2016-02-10 00:42:36 INFO  RentedMovieDAO:59 - U¿ytkownik o id 1 aktualnie jest w posiadaniu filmu o id 20
+2016-02-10 00:42:36 INFO  WatchMovie:26 - admin ogl¹da film o id 20
+2016-02-10 00:42:36 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 20
+2016-02-10 00:42:36 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 20 powiod³o siê.
+2016-02-10 00:42:36 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:42:36 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:42:39 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:42:39 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:42:39 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:42:39 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:42:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:42:39 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:42:39 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:42:39 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:42:41 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:42:41 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:42:41 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:42:41 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:42:41 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:42:41 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 768
+2016-02-10 00:42:41 INFO  RentedMovieDAO:59 - U¿ytkownik o id 1 aktualnie jest w posiadaniu filmu o id 768
+2016-02-10 00:42:41 INFO  WatchMovie:26 - admin ogl¹da film o id 768
+2016-02-10 00:42:41 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-10 00:42:41 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 768 powiod³o siê.
+2016-02-10 00:42:41 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:42:41 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:42:49 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:42:49 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:42:49 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:42:49 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:42:49 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:42:49 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 762
+2016-02-10 00:42:49 INFO  RentedMovieDAO:62 - U¿ytkownik o id 1 aktualnie nie jest w posiadaniu filmu o id 762
+2016-02-10 00:42:49 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:42:49 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:45:47 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-10 00:45:47 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:45:47 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-10 00:45:47 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-10 00:45:47 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-10 00:45:47 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-10 00:45:51 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-10 00:45:51 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-10 00:45:51 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-10 00:45:51 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-10 00:45:51 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-10 00:45:51 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-10 00:45:52 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-10 00:45:52 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-10 00:45:52 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-10 00:45:52 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:45:52 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:45:58 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:45:58 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:45:58 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:45:58 INFO  Profile:21 - Przegl¹danie w³asnego profilu przez admin
+2016-02-10 00:45:58 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:45:58 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:45:58 INFO  Brain:147 - Pobieranie szczegó³ów u¿ytkownika admin
+2016-02-10 00:45:58 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:45:58 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:46:00 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:46:00 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:46:00 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:46:00 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:46:00 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:46:00 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:46:00 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:46:00 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 00:47:06 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-10 00:47:06 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:47:07 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-10 00:47:07 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-10 00:47:07 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-10 00:47:07 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-10 00:47:10 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-10 00:47:10 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-10 00:47:10 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-10 00:47:10 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-10 00:47:10 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-10 00:47:11 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-10 00:47:11 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-10 00:47:11 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-10 00:47:11 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-10 00:47:11 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:47:11 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:47:18 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-10 00:47:18 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-10 00:47:18 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-10 00:47:18 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-10 00:47:18 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 00:47:18 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 00:47:18 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-10 00:47:18 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-10 23:25:34 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-10 23:25:34 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-10 23:25:34 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-10 23:25:34 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-10 23:25:34 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-10 23:25:34 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-10 23:25:36 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-10 23:25:36 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-10 23:25:36 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-10 23:25:36 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-10 23:25:36 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-10 23:25:37 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-10 23:25:38 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-10 23:25:38 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-10 23:25:38 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-10 23:25:38 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-10 23:25:38 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-10 23:27:37 INFO  LogOut:21 - admin wylogowa³ siê.
+2016-02-10 23:31:11 INFO  Brain:26 - Logowanie u¿ytkownika null
+2016-02-10 23:31:11 INFO  UserDAO:15 - Weryfikacja u¿ytkownika null
+2016-02-10 23:31:11 INFO  UserDAO:33 - Weryfikacja u¿ytkownika null nie powiod³a siê.
+2016-02-10 23:31:11 INFO  Login:36 - Próba logowania u¿ytkownika o loginie null
+2016-02-10 23:31:25 INFO  Brain:26 - Logowanie u¿ytkownika null
+2016-02-10 23:31:25 INFO  UserDAO:15 - Weryfikacja u¿ytkownika null
+2016-02-10 23:31:25 INFO  UserDAO:33 - Weryfikacja u¿ytkownika null nie powiod³a siê.
+2016-02-10 23:31:25 INFO  Login:36 - Próba logowania u¿ytkownika o loginie null
+2016-02-10 23:31:47 INFO  Brain:26 - Logowanie u¿ytkownika null
+2016-02-10 23:31:47 INFO  UserDAO:15 - Weryfikacja u¿ytkownika null
+2016-02-10 23:31:47 INFO  UserDAO:33 - Weryfikacja u¿ytkownika null nie powiod³a siê.
+2016-02-10 23:31:47 INFO  Login:36 - Próba logowania u¿ytkownika o loginie null
+2016-02-15 16:49:04 INFO  Brain:26 - Logowanie u¿ytkownika null
+2016-02-15 16:49:04 INFO  UserDAO:15 - Weryfikacja u¿ytkownika null
+2016-02-15 16:49:05 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-15 16:49:05 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-15 16:49:05 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-15 16:49:05 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-15 16:49:08 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-15 16:49:08 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-15 16:49:08 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-15 16:49:08 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-15 16:49:08 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-15 16:49:09 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-15 16:49:09 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-15 16:49:10 INFO  UserDAO:33 - Weryfikacja u¿ytkownika null nie powiod³a siê.
+2016-02-15 16:49:10 INFO  Login:36 - Próba logowania u¿ytkownika o loginie null
+2016-02-15 16:49:26 INFO  Brain:26 - Logowanie u¿ytkownika null
+2016-02-15 16:49:26 INFO  UserDAO:15 - Weryfikacja u¿ytkownika null
+2016-02-15 16:49:26 INFO  UserDAO:33 - Weryfikacja u¿ytkownika null nie powiod³a siê.
+2016-02-15 16:49:26 INFO  Login:36 - Próba logowania u¿ytkownika o loginie null
+2016-02-15 16:52:12 INFO  Brain:26 - Logowanie u¿ytkownika admin
+2016-02-15 16:52:12 INFO  UserDAO:15 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:52:12 INFO  Version:37 - HHH000412: Hibernate Core {5.0.2.Final}
+2016-02-15 16:52:12 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-15 16:52:12 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-15 16:52:12 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-15 16:52:14 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-15 16:52:14 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-15 16:52:14 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-15 16:52:14 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-15 16:52:14 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-15 16:52:14 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-15 16:52:15 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-15 16:52:15 INFO  UserDAO:30 - Weryfikacja u¿ytkownika admin powiod³a siê.
+2016-02-15 16:52:15 INFO  Login:32 - admin zalogowa³ siê.
+2016-02-15 16:52:15 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:52:15 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:52:18 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:52:18 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:52:18 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:52:18 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:52:18 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:52:18 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-15 16:52:18 WARN  SqlExceptionHelper:127 - SQL Error: 1318, SQLState: 42000
+2016-02-15 16:52:18 ERROR SqlExceptionHelper:129 - Incorrect number of arguments for PROCEDURE iwv.MovieList; expected 6, got 5
+2016-02-15 16:54:29 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:54:29 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:54:29 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:54:29 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:54:29 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:54:32 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:54:32 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:54:32 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:54:32 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:54:32 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:54:32 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-15 16:54:32 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-15 16:55:31 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:55:31 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:55:31 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:55:31 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:55:31 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:55:31 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-15 16:55:31 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-15 16:55:45 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:55:45 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:55:45 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:55:45 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:55:45 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:55:45 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-15 16:55:45 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-15 16:55:51 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:55:51 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:55:51 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:55:51 INFO  MovieDetails:23 - Przegl¹danie filmu o id 77 przez admin
+2016-02-15 16:55:51 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:55:52 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:55:52 INFO  Brain:104 - Pobieranie szczegó³ów filmu o id 77
+2016-02-15 16:55:52 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 77
+2016-02-15 16:55:52 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 77 powiod³o siê.
+2016-02-15 16:56:10 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:56:10 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:56:10 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:56:10 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 77
+2016-02-15 16:56:10 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 77 powiod³o siê.
+2016-02-15 16:56:10 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:10 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:10 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:10 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:20 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:56:20 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:56:20 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:56:20 INFO  Brain:162 - Wypo¿yczanie filmu o id 77 przez admin
+2016-02-15 16:56:20 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 77
+2016-02-15 16:56:20 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 77 powiod³o siê.
+2016-02-15 16:56:20 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:20 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:20 INFO  UserDAO:75 - Zasilanie konta u¿ytkownika admin
+2016-02-15 16:56:20 INFO  UserDAO:88 - Zasilanie konta u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:20 INFO  RentedMovieDAO:18 - Wypo¿yczanie filmu o id 77 przez u¿ytkownika o id 1
+2016-02-15 16:56:20 INFO  RentedMovieDAO:28 - Wypo¿yczanie filmu o id 77 przez u¿ytkownika o id 1 powiod³o siê.
+2016-02-15 16:56:20 INFO  RentMovie:28 - admin wypo¿yczy³ filmu o id 77
+2016-02-15 16:56:20 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:20 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:23 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:56:23 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:56:23 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:56:23 INFO  RentedMovies:23 - Przegl¹danie wypo¿yczonych filmów przez admin
+2016-02-15 16:56:23 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:23 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:23 INFO  RentedMovieDAO:33 - Pobieranie listy wypo¿yczonych filmów przez admin
+2016-02-15 16:56:23 INFO  RentedMovieDAO:43 - Pobieranie listy wypo¿yczonych filmów przez admin powiod³o siê.
+2016-02-15 16:56:35 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:56:35 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:56:35 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:56:35 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:35 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:35 INFO  RentedMovieDAO:49 - Weryfikacja czy u¿ytkownik o id 1 wypo¿yczy³ film o id 768
+2016-02-15 16:56:35 INFO  RentedMovieDAO:59 - U¿ytkownik o id 1 aktualnie jest w posiadaniu filmu o id 768
+2016-02-15 16:56:35 INFO  WatchMovie:26 - admin ogl¹da film o id 768
+2016-02-15 16:56:35 INFO  MovieDAO:51 - Pobieranie szczegó³ów filmu o id 768
+2016-02-15 16:56:35 INFO  MovieDAO:58 - Pobieranie szczegó³ów filmu o id 768 powiod³o siê.
+2016-02-15 16:56:35 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:35 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:59 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:56:59 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:56:59 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:56:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:56:59 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-15 16:56:59 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:56:59 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:57:02 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:57:02 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:57:02 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:57:02 INFO  AddNewMovie:25 - Dodawanie filmu przez admin
+2016-02-15 16:57:02 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:57:02 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:57:02 INFO  TypeOfMovieDAO:14 - Pobieranie gatunków filmów.
+2016-02-15 16:57:02 INFO  TypeOfMovieDAO:20 - Pobieranie gatunków filmów powiod³o siê.
+2016-02-15 16:57:07 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:57:07 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:57:07 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:57:07 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:57:07 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:57:07 INFO  AdminPanel:23 - Przejœcie do panelu administracyjnego przez admin
+2016-02-15 16:57:07 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:57:07 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:57:08 INFO  Brain:119 - Weryfikacja u¿ytkownika admin
+2016-02-15 16:57:08 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika admin
+2016-02-15 16:57:08 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika admin powiod³a siê.
+2016-02-15 16:57:08 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:57:08 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:57:08 INFO  UsersList:24 - Przegl¹danie listy u¿ytkowników przez admin
+2016-02-15 16:57:08 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika admin
+2016-02-15 16:57:08 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika admin powiod³o siê.
+2016-02-15 16:57:08 INFO  UserDAO:113 - Pobieranie listy u¿ytkowników
+2016-02-15 16:57:52 INFO  LogOut:21 - admin wylogowa³ siê.
+2016-02-15 16:58:06 INFO  Brain:26 - Logowanie u¿ytkownika user1
+2016-02-15 16:58:06 INFO  UserDAO:15 - Weryfikacja u¿ytkownika user1
+2016-02-15 16:58:06 INFO  UserDAO:30 - Weryfikacja u¿ytkownika user1 powiod³a siê.
+2016-02-15 16:58:06 INFO  Login:32 - user1 zalogowa³ siê.
+2016-02-15 16:58:06 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-15 16:58:06 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-15 16:58:31 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-15 16:58:31 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-15 16:58:31 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-15 16:58:31 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-15 16:58:31 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-15 17:18:33 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-15 17:18:33 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-15 17:18:33 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-15 17:18:33 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-15 17:18:33 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-15 17:18:33 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-15 17:18:33 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.
+2016-02-15 17:18:39 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-15 17:18:39 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-15 17:18:39 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-15 17:18:39 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-15 17:18:40 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-15 17:18:46 INFO  Brain:119 - Weryfikacja u¿ytkownika user1
+2016-02-15 17:18:46 INFO  UserDAO:93 - Weryfikacja istnienia u¿ytkownika user1
+2016-02-15 17:18:46 INFO  UserDAO:104 - Weryfikacja istnienia u¿ytkownika user1 powiod³a siê.
+2016-02-15 17:18:46 INFO  UserDAO:54 - Pobieranie danych u¿ytkownika user1
+2016-02-15 17:18:46 INFO  UserDAO:69 - Pobieranie danych u¿ytkownika user1 powiod³o siê.
+2016-02-15 17:18:46 INFO  MovieDAO:19 - Pobieranie bazy filmów.
+2016-02-15 17:18:46 INFO  MovieDAO:34 - Pobieranie bazy filmów powiod³o siê.

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:web="http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd" id="WebApp_ID" version="3.0">
+
+	<context-param>
+		<param-name>javax.faces.PROJECT_STAGE</param-name>
+		<param-value>Development</param-value>
+	</context-param>
+
+  <servlet>
+    <servlet-name>Login</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.Login</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Login</servlet-name>
+  	<url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>LogOut</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.LogOut</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>LogOut</servlet-name>
+  	<url-pattern>/LogOut</url-pattern>
+  </servlet-mapping>  
+  
+  <servlet>
+    <servlet-name>Register</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.Register</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Register</servlet-name>
+  	<url-pattern>/Register</url-pattern>
+  </servlet-mapping>  
+  
+  
+  <servlet>
+    <servlet-name>Profile</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.Profile</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Profile</servlet-name>
+  	<url-pattern>/Profile</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Library</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.Library</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Library</servlet-name>
+  	<url-pattern>/Library</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Main</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.Main</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Main</servlet-name>
+  	<url-pattern>/</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>AddNewMovie</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.AddNewMovie</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>AddNewMovie</servlet-name>
+  	<url-pattern>/AddNewMovie</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>Movie</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.MovieDetails</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>Movie</servlet-name>
+  	<url-pattern>/Movie</url-pattern>
+  </servlet-mapping> 
+  
+  <servlet>
+    <servlet-name>ChargeAccount</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.ChargeAccount</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>ChargeAccount</servlet-name>
+  	<url-pattern>/ChargeAccount</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>RentMovie</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.RentMovie</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RentMovie</servlet-name>
+  	<url-pattern>/RentMovie</url-pattern>
+  </servlet-mapping>    
+  
+  <servlet>
+    <servlet-name>RentedMovies</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.RentedMovies</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>RentedMovies</servlet-name>
+  	<url-pattern>/RentedMovies</url-pattern>
+  </servlet-mapping>   
+  
+  <servlet>
+    <servlet-name>AdminPanel</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.AdminPanel</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>AdminPanel</servlet-name>
+  	<url-pattern>/AdminPanel</url-pattern>
+  </servlet-mapping> 
+
+  <servlet>
+    <servlet-name>UsersList</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.UsersList</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>UsersList</servlet-name>
+  	<url-pattern>/UsersList</url-pattern>
+  </servlet-mapping> 
+
+  <servlet>
+    <servlet-name>WatchMovie</servlet-name>
+    <servlet-class>com.kokoszkiewicz.iwv.gui.WatchMovie</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>WatchMovie</servlet-name>
+  	<url-pattern>/WatchMovie</url-pattern>
+  </servlet-mapping> 
+
+  <servlet>
+    <servlet-name>FormTest</servlet-name>
+    <servlet-class>javax.faces.webapp.FacesServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>FormTest</servlet-name>
+  	<url-pattern>/FormTest</url-pattern>
+  </servlet-mapping>
+ <servlet-mapping>
+  	<servlet-name>FormTest</servlet-name>
+  	<url-pattern>*.xhtml</url-pattern>
+  </servlet-mapping>   
+ <servlet-mapping>
+  	<servlet-name>FormTest</servlet-name>
+  	<url-pattern>*.jsf</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+	<servlet-name>default</servlet-name>
+	<url-pattern>/res/*</url-pattern>
+  </servlet-mapping>
+	
+  
+</web-app>

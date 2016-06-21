@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.kokoszkiewicz.iwv.entities.MovieType" table="MovieType">
+		<id name="id_movietype" column="id_movietype" type="int">
+			<generator class="identity" />
+		</id>
+		<property name="id_movie" column="id_movie" type="int"/>
+		<property name="id_type" column="id_type" type="int"/>
+	</class>
+</hibernate-mapping>

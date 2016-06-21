@@ -1,0 +1,56 @@
+2016-02-05 23:15:25 INFO  UserDAO:93 - Weryfikacja istnienia użytkownika admin
+2016-02-05 23:15:25 INFO  Version:37 - HHH000412: Hibernate Core {5.0.1.Final}
+2016-02-05 23:15:25 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2016-02-05 23:15:25 INFO  Environment:317 - HHH000021: Bytecode provider name : javassist
+2016-02-05 23:15:25 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.0.Final}
+2016-02-05 23:15:29 WARN  DriverManagerConnectionProviderImpl:76 - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+2016-02-05 23:15:29 INFO  DriverManagerConnectionProviderImpl:149 - HHH000401: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/iwv]
+2016-02-05 23:15:29 INFO  DriverManagerConnectionProviderImpl:158 - HHH000046: Connection properties: {user=root, password=****}
+2016-02-05 23:15:29 INFO  DriverManagerConnectionProviderImpl:163 - HHH000006: Autocommit mode: false
+2016-02-05 23:15:29 INFO  DriverManagerConnectionProviderImpl:85 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2016-02-05 23:15:29 INFO  Dialect:154 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2016-02-05 23:15:29 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:29 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 WARN  deprecation:2441 - HHH90000003: Use of DOM4J entity-mode is considered deprecated
+2016-02-05 23:15:30 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2016-02-05 23:15:30 INFO  UserDAO:103 - Weryfikacja istnienia użytkownika admin powiodła się.

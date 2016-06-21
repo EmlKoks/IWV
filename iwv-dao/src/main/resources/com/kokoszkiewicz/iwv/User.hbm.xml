@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.kokoszkiewicz.iwv.entities.User" table="User">
+		<id name="id" column="id_user" type="int">
+			<generator class="identity" />
+		</id>
+		<property name="email" column="email" type="string"/>
+        <property name="name" column="name" type="string"/>
+		<property name="password" column="password" type="string"/>
+		<property name="phone" column="phone" type="java.lang.Long"/>
+		<property name="register_date" column="register_date" type="date"/>
+		<property name="last_login" column="last_login" type="date"/>
+		<property name="balance" column="balance" type="float"/>
+		<property name="admin" column="admin" type="boolean"/>
+    </class>
+</hibernate-mapping>

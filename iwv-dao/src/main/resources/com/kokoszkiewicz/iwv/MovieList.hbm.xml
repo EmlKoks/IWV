@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="com.kokoszkiewicz.iwv.entities.MovieList" table="MovieList">
+		<id name="id" column="id_movie" type="int">
+			<generator class="identity" />
+		</id>
+		<property name="title" column="title" type="string"/>
+        <property name="premiere_date" column="premiere_date" type="date"/>
+		<property name="director" column="director" type="string"/>
+		<property name="trailer_link" column="trailer_link" type="string"/>
+		<property name="poster_link" column="poster_link" type="string"/>
+		<property name="price" column="price" type="float"/>
+		<property name="rowNumber" column="rowNumber" type="int"/>
+		<property name="totalRows" column="totalRows" type="int"/>
+		<property name="totalPages" column="totalPages" type="int"/>
+	</class>
+</hibernate-mapping>

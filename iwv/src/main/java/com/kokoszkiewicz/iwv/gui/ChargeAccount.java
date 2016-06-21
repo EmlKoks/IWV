@@ -1,0 +1,47 @@
+package com.kokoszkiewicz.iwv.gui;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.apache.log4j.Logger;
+
+import com.kokoszkiewicz.iwv.services.Brain;
+
+public class ChargeAccount extends HttpServlet{
+	final static Logger logger = Logger.getLogger(ChargeAccount.class);
+	private static final long serialVersionUID = 1L;
+	
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setCharacterEncoding("UTF-8");
+		response.setHeader("Cache-Control", "private, no-store, no-cache, must-revalidate");
+		String login = PageTemplates.userIsLogin(request);
+		if(login!=null){
+			logger.info("Zalilanie konta użytkownika " + login);
+			PageTemplates.chargeAccount(response, login);
+		}
+		else{
+			logger.info("Problem podczas zasilania konta użytkownika " + login);
+			PageTemplates.message(response, "Błąd", "Błąd podczas ładowania konta", "", login);
+		}
+	}
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException{
+		response.setCharacterEncoding("UTF-8");
+		response.setHeader("Cache-Control", "private, no-store, no-cache, must-revalidate");
+		String amount = request.getParameter("amount");
+		String login = PageTemplates.userIsLogin(request);
+		if(login!=null && Brain.chargeAccount(Float.parseFloat(amount), login)){
+			logger.info("Udało się zasilić konto użytkownika " + login);
+			PageTemplates.message(response, "Udało się doładować konto!", "Udało się doładować konto!", "", login);
+		}
+        else{
+        	logger.info("Problem podczas zasilania konta użytkownika " + login);
+        	PageTemplates.message(response, "Doładowanie nie powiodło się!", "Błąd", "/ChargeAccount", login);
+        }
+		
+	}
+
+}
